@@ -79,7 +79,7 @@ h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: linear-gradient(320deg,#512bd4 14.05%,#d600aa 89.3%);
+  background: linear-gradient(320deg, #512bd4 14.05%, #d600aa 89.3%);
   overflow-y: auto;
 }
 
@@ -241,7 +241,7 @@ h6 {
 #hero {
   width: 100%;
   height: 40vh;
-  background: linear-gradient(18.5deg,#512bd4 14.05%,#d600aa 89.3%);
+  background: linear-gradient(18.5deg, #512bd4 14.05%, #d600aa 89.3%);
 }
 
 #hero .hero-container {
